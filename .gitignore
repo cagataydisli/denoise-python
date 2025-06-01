@@ -31,3 +31,7 @@ dist/
 # Eğitim checkpoint klasörleri (isteğe bağlı)
 checkpoints/
 checkpoints_big/
+
+# ── Ignore raw audio files ────────────────────────────
+data/**/*.wav
+output/**/*.wav
