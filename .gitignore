@@ -1,0 +1,33 @@
+# Python bytecode ve derlenmiş dosyalar
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortam
+denoise-env/
+env/
+venv/
+
+# PyInstaller
+*.spec
+
+# Dağıtım / Paketleme
+build/
+dist/
+*.egg-info/
+
+# Log dosyaları
+*.log
+
+# VSCode ayarları
+.vscode/
+
+# PyCharm ayarları
+.idea/
+
+# MacOS
+.DS_Store
+
+# Eğitim checkpoint klasörleri (isteğe bağlı)
+checkpoints/
+checkpoints_big/
